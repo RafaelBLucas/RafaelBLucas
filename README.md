@@ -37,3 +37,11 @@
 </div>
 
 ###
+## Formação
+| Instituição | Curso | Período |
+| :---: | :---: | :---: | 
+| E.E Laert de Almeida São Bernardo | Diploma: Ensino Médio técnico em Vendas | 2023 - 2025 |
+| SAGA | Oficina SAGA - game | Emissão data: Ago 2022 |
+| Instituto PROA | Capacitação para o mercado de trabalho | Emissão data: Jul 2026 |
+
+###
